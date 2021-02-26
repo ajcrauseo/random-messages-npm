@@ -14,7 +14,16 @@
   "author": "Antony Cabeza <antonycabeza@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajcrauseo/random-messages-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajcrauseo/random-messages-npm/issues"
+  },
+  "homepage": "https://github.com/ajcrauseo/random-messages-npm#readme"
 }
